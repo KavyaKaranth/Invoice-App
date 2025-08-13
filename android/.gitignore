@@ -1,0 +1,38 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+coverage/
+.idea/
+.vscode/
+*.iml
+
+# Android related
+/android/.gradle/
+/android/captures/
+/android/.cxx/
+/android/local.properties
+/android/key.properties
+**/*.keystore
+**/*.jks
+android/app/google-services.json
+
+# iOS related
+ios/Flutter/.last_build_id
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Pods/
+ios/Podfile.lock
+ios/Runner/GoogleService-Info.plist
+
+# Gradle wrapper (you don’t want to share)
+gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat
+
+# Misc
+.DS_Store
+*.log
