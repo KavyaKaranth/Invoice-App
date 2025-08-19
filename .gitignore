@@ -20,6 +20,7 @@ assets/.env
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
 firebase_config.json
+lib/firebase_options.dart
 
 # Android specific
 **/android/local.properties
