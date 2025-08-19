@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "976a48893da62a58bfb7075b5b123369",
-"assets/AssetManifest.bin.json": "5d49ee85144a1db5970f9dc93d7809df",
-"assets/AssetManifest.json": "f21a4900f11fefee8daa5db32c44552c",
+const RESOURCES = {"assets/AssetManifest.bin": "3992c292a1d5089af31ba8415019edea",
+"assets/AssetManifest.bin.json": "709d1909f7b4aa2e5d6120be1b118071",
+"assets/AssetManifest.json": "5bad62c4c2df075cc879e6a48ed1c9c1",
 "assets/assets/images/Whats-an-invoice.webp": "af72343a7d523bcc9558fb069a48469c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "927b228ad16be2677419ae556d3d5d73",
@@ -23,13 +23,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "976a48893da62a58bfb7075b5b123369
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "70f5073a7e2ef0d52bc4d4f63babb1dc",
+"flutter_bootstrap.js": "885f2c639a2d511821b41a194c05e478",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "516dea238f3189b5968044f367faef1c",
-"/": "516dea238f3189b5968044f367faef1c",
+"index.html": "5294c3c2cd45bcad015ca05d2c1e6479",
+"/": "5294c3c2cd45bcad015ca05d2c1e6479",
 "main.dart.js": "c6193d9bc407e063d1146af131eba872",
 "manifest.json": "d7201fce470be0947d52641f164b7f29",
 "version.json": "f81624b4e1352a801ec4c205b0ea8a25"};
